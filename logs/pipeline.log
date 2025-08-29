@@ -1,0 +1,12 @@
+2025-08-29 10:18:15,933 - INFO - Démarrage du pipeline Spark
+2025-08-29 10:18:33,413 - INFO - SparkSession initialisé
+2025-08-29 10:18:40,254 - INFO - Données chargées et nettoyées
+2025-08-29 10:18:43,383 - INFO - Catalogue produit nettoyé sauvegardé
+2025-08-29 10:18:45,519 - INFO - Résumé des interactions généré
+2025-08-29 10:18:45,520 - INFO - Résumé interactions sauvegardé
+2025-08-29 10:18:46,642 - INFO - Reviews enrichies
+2025-08-29 10:18:46,643 - INFO - Reviews enrichies sauvegardées
+2025-08-29 10:18:47,677 - INFO - Profils utilisateurs construits
+2025-08-29 10:18:47,677 - INFO - Profils utilisateurs sauvegardés
+2025-08-29 10:18:47,678 - INFO - Pipeline terminé avec succès
+2025-08-29 10:18:48,671 - INFO - Closing down clientserver connection

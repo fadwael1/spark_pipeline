@@ -1,0 +1,16 @@
+good : 1
+performance : 1
+headphones : 1
+but : 2
+sound : 1
+decent : 1
+quality : 1
+fantastic : 1
+read : 1
+great : 1
+phone : 1
+affordable : 1
+is : 1
+average : 1
+feels : 1
+cheap : 1

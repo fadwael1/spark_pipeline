@@ -1,0 +1,5 @@
+P1 : 'Great phone' (user U1), catégorie = electronics, prix = 399.99
+P1 : 'Good performance' (user U3), catégorie = electronics, prix = 399.99
+P2 : 'Affordable headphones but sound is average' (user U2), catégorie = electronics, prix = 49.99
+P2 : 'Decent quality but feels cheap' (user U4), catégorie = electronics, prix = 49.99
+P3 : 'Fantastic read' (user U3), catégorie = books, prix = 14.99

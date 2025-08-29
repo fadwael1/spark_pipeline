@@ -1,0 +1,6 @@
+user_id,product_id,rating,review_text
+U1, P1, 5, "Great phone, excellent battery"
+U2, P2, 4, "Affordable headphones but sound is average"
+U3, P3, 5, "Fantastic read, loved the story"
+U4, P2, 3, "Decent quality but feels cheap"
+U3, P1, 4, "Good performance, but camera is weak"

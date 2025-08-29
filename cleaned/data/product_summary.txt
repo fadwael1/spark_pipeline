@@ -1,0 +1,3 @@
+P1 : 1 interaction, catégorie = electronics, prix = 399.99
+P2 : 2 interaction, catégorie = electronics, prix = 49.99
+P3 : 2 interaction, catégorie = books, prix = 14.99

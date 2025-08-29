@@ -1,0 +1,4 @@
+U1 : produits = ['P1'], note moyenne = 5.0, top mots = ['great', 'phone']
+U2 : produits = ['P2'], note moyenne = 4.0, top mots = ['affordable', 'headphones', 'but']
+U3 : produits = ['P3'], note moyenne = 4.5, top mots = ['fantastic', 'read', 'good']
+U4 : produits = ['P2'], note moyenne = 3.0, top mots = ['decent', 'quality', 'but']
